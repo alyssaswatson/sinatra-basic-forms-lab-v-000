@@ -15,4 +15,8 @@ class Puppy
   def breed
     @breed
   end
+
+  def age
+    @age
+  end
 end
