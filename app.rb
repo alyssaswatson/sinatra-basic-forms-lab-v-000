@@ -5,7 +5,7 @@ class App < Sinatra::Base
     erb :index
   end
 
-  post '/new' do
+  get '/new' do
 
   end
 end
