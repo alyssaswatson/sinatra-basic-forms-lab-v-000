@@ -8,7 +8,7 @@ class Puppy
     @age = age
   end
 
-  def self.name
+  def name
     @name
   end
 end
